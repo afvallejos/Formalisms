@@ -12,3 +12,11 @@
     {method}Without parentheses or Qualifiers
  }
 @enduml
+class class02 {
+   -var02 : Float
+   Time : Date
+   #method01()
+   +get_var02()
+   {method}Without parentheses or Qualifiers
+}
+
